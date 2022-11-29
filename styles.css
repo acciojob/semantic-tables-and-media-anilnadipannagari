@@ -1,2 +1,12 @@
-
+video{
+    width: 500px;
+    height: 400px;
+}
+table{
+    border: 1px solid;
+}
+th,td{
+    border-collapse: collapse;
+    border: solid;
+}
 /* Your CSS Code here. */
